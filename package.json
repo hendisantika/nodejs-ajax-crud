@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/hendisantika/nodejs-ajax-crud/issues"
   },
-  "homepage": "https://github.com/hendisantika/nodejs-ajax-crud#readme"
+  "homepage": "https://github.com/hendisantika/nodejs-ajax-crud#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
