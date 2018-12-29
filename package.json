@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-ajax-crud",
+  "version": "1.0.0",
+  "description": "NodeJS AJAX CRUD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hendisantika/nodejs-ajax-crud.git"
+  },
+  "keywords": [
+    "nodejs",
+    "ajax",
+    "crud"
+  ],
+  "author": "Hendi Santika",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hendisantika/nodejs-ajax-crud/issues"
+  },
+  "homepage": "https://github.com/hendisantika/nodejs-ajax-crud#readme"
+}
